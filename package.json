@@ -1,0 +1,13 @@
+{
+  "name": "azure-resolve-gh-ref",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "@adobe/gh-resolve-ref": "^1.1.0"
+  },
+  "devDependencies": {}
+}
